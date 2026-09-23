@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-24",
+  "sleep_min": 499,
+  "fitness_min": 20,
+  "study_min": 87,
+  "coding_min": 42,
+  "class_min": 200,
+  "classes_attended": 4,
+  "other_activities_min": 70,
+  "total_tracked_min": 918,
+  "free_unaccounted_min": 522,
+  "days_feeling": "Good",
+  "satisfaction_level": "Neutral",
+  "energy_level": "Medium",
+  "notes": "Average college day. Managed classes and some study."
+}
