@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-28",
+  "sleep_min": 450,
+  "fitness_min": 27,
+  "study_min": 59,
+  "coding_min": 48,
+  "class_min": 350,
+  "classes_attended": 7,
+  "other_activities_min": 75,
+  "total_tracked_min": 1009,
+  "free_unaccounted_min": 431,
+  "days_feeling": "Average",
+  "satisfaction_level": "Neutral",
+  "energy_level": "Low",
+  "notes": "Felt tired by the end of the day after classes."
+}
