@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-15",
+  "sleep_min": 436,
+  "fitness_min": 37,
+  "study_min": 116,
+  "coding_min": 61,
+  "class_min": 350,
+  "classes_attended": 7,
+  "other_activities_min": 122,
+  "total_tracked_min": 1122,
+  "free_unaccounted_min": 318,
+  "days_feeling": "Tired",
+  "satisfaction_level": "Neutral",
+  "energy_level": "Medium",
+  "notes": "Python CA was there today. Felt stressed and exhausted after the assessment.",
+  "special_event": "Python CA"
+}
