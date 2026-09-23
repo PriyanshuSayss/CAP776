@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-04",
+  "sleep_min": 532,
+  "fitness_min": 30,
+  "study_min": 119,
+  "coding_min": 41,
+  "class_min": 350,
+  "classes_attended": 7,
+  "other_activities_min": 63,
+  "total_tracked_min": 1135,
+  "free_unaccounted_min": 305,
+  "days_feeling": "Tired",
+  "satisfaction_level": "Neutral",
+  "energy_level": "Medium",
+  "notes": "Long day at college. Mostly exhausted after coming back."
+}
