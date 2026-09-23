@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-01",
+  "sleep_min": 398,
+  "fitness_min": 29,
+  "study_min": 95,
+  "coding_min": 52,
+  "class_min": 350,
+  "classes_attended": 7,
+  "other_activities_min": 90,
+  "total_tracked_min": 1014,
+  "free_unaccounted_min": 426,
+  "days_feeling": "Average",
+  "satisfaction_level": "Neutral",
+  "energy_level": "Medium",
+  "notes": "Networking CA was there today. The day felt hectic because of the assessment.",
+  "special_event": "Networking CA"
+}
